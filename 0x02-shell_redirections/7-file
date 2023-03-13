@@ -1,2 +1,2 @@
 #!/bin/bash
-top -b -n 1 | head -n 12 && top -b -n 1 | tail -n +12 | sort -nrk 9 | head -n 5
+echo "Best School" > '*\\'"Best School"'\\*$?******:)'
