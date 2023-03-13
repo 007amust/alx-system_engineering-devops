@@ -1,0 +1,2 @@
+#!/bin/bash
+(ls_output=$(ls -la) echo "$ls_output" > ls_cwd_content)
